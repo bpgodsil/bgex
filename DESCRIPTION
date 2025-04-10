@@ -1,0 +1,20 @@
+Package: bgex
+Type: Package
+Title: Example functions
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "William", "Godsil",
+      email = "bp.godsil@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Some examples of R funcitons I have created. 
+License: use_gpl_license()
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+	ggrepel,
+	openxlsx
+RoxygenNote: 7.3.2
